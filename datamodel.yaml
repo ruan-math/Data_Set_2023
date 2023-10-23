@@ -1,0 +1,5 @@
+train: Dataset_Master_2023/60m/Dataset/train/images
+val: Dataset_Master_2023/60m/Dataset/val/images
+test: Dataset_Master_2023/60m/Dataset/test/images
+nc: 5
+names: ['Car', 'Person', 'Motorcycle', 'Truck', 'Animal']
